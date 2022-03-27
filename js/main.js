@@ -47,7 +47,7 @@ class DemoPage extends LitElement {
       <div class="container">
 
           <vox-viewer 
-              src="https://5ywn6daenz6poefpjkgs3c2vdgtzsk2vevam6aozkfzzzwrmgi.arweave.net/nFF3J4VB0BP9eHt35gdffGuwCXaHfXwtJl2K6u4GyA0" 
+              src="to-replace-it" 
               camera-controls
               auto-rotate
               shadow-intensity="0.3"
